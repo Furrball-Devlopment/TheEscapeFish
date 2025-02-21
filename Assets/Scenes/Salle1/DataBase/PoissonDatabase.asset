@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f57064f709ec486cbe20acf7c3fc98d, type: 3}
+  m_Name: PoissonDatabase
+  m_EditorClassIdentifier: 
+  poissons:
+  - nom: Cod
+    prefab: {fileID: 1870853889962878, guid: 0885df2fceef3734896156b6c9d699be, type: 3}
+  - nom: Barracuda
+    prefab: {fileID: 1466324459549200, guid: 4fc8100d2e0c5ce4e831af926e5192ca, type: 3}
+  - nom: Arapaima
+    prefab: {fileID: 1107411160630964, guid: bd52fe591dcea5a4ba689c55c42d29eb, type: 3}
+  - nom: Koi
+    prefab: {fileID: 1748946944915498, guid: 9b37844427900714bac5b352dbd931d0, type: 3}
+  - nom: Salmon
+    prefab: {fileID: 1328876510001664, guid: 9a8cb66516b3c73439f77c0c36ef207f, type: 3}
+  - nom: Red Eye Fish
+    prefab: {fileID: 1564766431413074, guid: 1d95d0e03471d5e4e94230a18450ea5a, type: 3}
+  - nom: Mahi Mahi
+    prefab: {fileID: 1425027144221698, guid: cc9a616fb3be3b74c8674bc0e2da1ff5, type: 3}
+  - nom: Clownfish
+    prefab: {fileID: 1260883131845032, guid: 704d7e9771f635d49b675a9e09b632ff, type: 3}
+  - nom: Mandarin Fish
+    prefab: {fileID: 1091632286704298, guid: bf95cd27d201c0a4ca7c67904c646822, type: 3}
+  - nom: Electric Catfish
+    prefab: {fileID: 1565141193421758, guid: 7022a07fc5788ad47b2bbd0e5365b64a, type: 3}
+  - nom: Emperor Angelfish
+    prefab: {fileID: 1911605819255016, guid: 5ef6cda3c62fbd94ea7530448a7a94ef, type: 3}
+  - nom: Pike
+    prefab: {fileID: 1754134652064946, guid: 8904be5d4678137488ffd85162cd05e3, type: 3}
